@@ -1,6 +1,37 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://www.filmaffinity.com/es/film850334.html", LA GRAN FIESTA
+
+#EXTINF:0 tvg-logo="https://www.ecured.cu/images/8/8d/Peliculas_4.JPG", RAMBO 1
+https://archive.org/download/rambo-3_202009/RAMBO%201.mp4
+
+#EXTINF:0 tvg-logo="https://cloud10.todocoleccion.online/cine-fotos-postales/tc/2019/01/15/21/147091525_1547585694E83627D0.jpg", RAMBO 2
+https://archive.org/download/rambo-3_202009/RAMBO%202.mp4 
+
+#EXTINF:0 tvg-logo="https://cloud10.todocoleccion.online/cine-peliculas-16-mm/tc/2017/09/16/01/97968803.jpg", RAMBO 3
+https://archive.org/download/rambo-3_202009/RAMBO%203.mp4
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/01/ee/20/01ee200df2787acc5bb00af3620af96f.jpg", RAMBO 4
+https://archive.org/download/rambo-3_202009/RAMBO%204.mp4
+
+#EXTINF:0 tvg-logo="https://www.ginza.se/Archive/Images/item_img_1200/403994.jpg", RAMBO 5
+https://archive.org/download/rambo-3_202009/RAMBO%205.mp4
+
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/Lq9k6-IoL7Q/movieposter.jpg", KARATE KID 1
+https://archive.org/download/karate-kid-4/karate%20kid.mp4
+
+#EXTINF:0 tvg-logo="https://www.filmaboutit.com/data/shp/images/8mZZYZWlqxxp90U7sBmOnI4UZt5.jpg", KARATE KID 2
+https://archive.org/download/rambo-3_202009/Karate%20Kid%20II.mp4
+
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/518Z7437YxL._AC_SY445_.jpg", KARATE KID 3
+https://archive.org/serve/karate-kid-4/karate%20kid%203.mp4
+
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91NHM%2B2a12L._AC_SL1500_.jpg", KARATE KID 4
+https://archive.org/download/karate-kid-4/karate%20kid%204.mp4
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/64/32/32/64323216f74daa0cee8afc696b1a925d.jpg", CHUCKY 1
+https://archive.org/serve/karate-kid-5/chucky.mp4
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/0a/14/e6/0a14e63ddaf9678fca665a42fd025249.jpg", LA GRAN FIESTA
 https://ia601409.us.archive.org/14/items/21-la-gran-fiesta/21%20la%20gran%20fiesta.mp4
 
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/wolf_creek-422222570-mmed.jpg", WOLF CREEK
@@ -14,6 +45,3 @@ https://ia601409.us.archive.org/10/items/wolf-creek/terror%20bajo%20la%20tierra%
 
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Terror_bajo_la_tierra_5-886775499-large.jpg", TERROR BAJO LA TIERRA 5
 https://ia601409.us.archive.org/10/items/wolf-creek/terror%20bajo%20la%20tierra%205.mp4
-
-#EXTINF:0 tvg-logo="", chucky 1
-https://archive.org/serve/karate-kid-5/chucky.mp4
