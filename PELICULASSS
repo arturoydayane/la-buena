@@ -1,47 +1,126 @@
 #EXTM3U
+#EXTINF:0 CREADOR: ARTURO ESCOBAR
+                 ACTUALIZADA: SEP/24/2020
 
 
-#EXTINF:0 tvg-logo="https://www.ecured.cu/images/8/8d/Peliculas_4.JPG", RAMBO 1
-https://archive.org/download/rambo-3_202009/RAMBO%201.mp4
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/51/b9/55/51b9557606515ec938f4be601db7a879.jpg", ARMA MORTAL
+https://ia601505.us.archive.org/34/items/arma-mortal-3/ARMA%20MORTAL.mp4 
 
-#EXTINF:0 tvg-logo="https://cloud10.todocoleccion.online/cine-fotos-postales/tc/2019/01/15/21/147091525_1547585694E83627D0.jpg", RAMBO 2
-https://archive.org/download/rambo-3_202009/RAMBO%202.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/c_215_290/pictures/14/03/05/10/10/478427.jpg", ARMA MORTAL 2
+https://ia601505.us.archive.org/34/items/arma-mortal-3/ARMA%20MORTAL%202.mp4?cnt=0  
 
-#EXTINF:0 tvg-logo="https://cloud10.todocoleccion.online/cine-peliculas-16-mm/tc/2017/09/16/01/97968803.jpg", RAMBO 3
-https://archive.org/download/rambo-3_202009/RAMBO%203.mp4
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/513MiNWLMfL._SX342_.jpg", ARMA MORTAL 3
+https://ia601505.us.archive.org/34/items/arma-mortal-3/ARMA%20MORTAL%203.mp4
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/01/ee/20/01ee200df2787acc5bb00af3620af96f.jpg", RAMBO 4
-https://archive.org/download/rambo-3_202009/RAMBO%204.mp4
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Arma_letal_4-149791840-large.jpg", ARMA MORTAL 4
+https://ia601505.us.archive.org/34/items/arma-mortal-3/ARMA%20MORTAL%204.mp4 
 
-#EXTINF:0 tvg-logo="https://www.ginza.se/Archive/Images/item_img_1200/403994.jpg", RAMBO 5
-https://archive.org/download/rambo-3_202009/RAMBO%205.mp4
+#EXTINF:0 tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/14/13/49/384885.jpg", DEPREDADOR
+https://ia601505.us.archive.org/34/items/arma-mortal-3/Depredador.mp4
 
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/Lq9k6-IoL7Q/movieposter.jpg", KARATE KID 1
-https://archive.org/download/karate-kid-4/karate%20kid.mp4
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Depredador_2-353723034-large.jpg", DEPREDADOR 2
+https://ia601505.us.archive.org/34/items/arma-mortal-3/Depredador%202.mp4 
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/_i0m2gJye5ts/R4ww5_swb4I/AAAAAAAAA8A/-TmYB8-tuTk/s320/aliens-vs-predator_opt2_.jpg", ALIEN VS DEPREDADOR
+https://ia601505.us.archive.org/34/items/arma-mortal-3/Alien%20vs%20Depredador.mp4
+
+#EXTINF:0 tvg-logo="https://es.web.img2.acsta.net/c_215_290/medias/nmedia/18/67/20/19/20237425.jpg", ALIEN VS DEPREDADOR 2
+https://ia601505.us.archive.org/34/items/arma-mortal-3/Alien%20vs%20Depredador%202.mp4
+
+#EXTINF:0 tvg-logo="https://www.ecured.cu/images/3/32/3333.jpg", DEPREDADORES
+https://ia601505.us.archive.org/34/items/arma-mortal-3/Depredadores.mp4
+
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/statics3.cinemex.com/movie_posters/UoAV9bzMxxpP0HB-360x540.jpg", DEPREDADOR 2018 
+https://ia601505.us.archive.org/34/items/arma-mortal-3/Depredador%202018.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/die_hard-336213173-mmed.jpg", DURO DE MATAR
+https://ia601505.us.archive.org/34/items/arma-mortal-3/DURO%20DE%20MATAR.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Duro_de_matar_2-635091096-large.jpg", DURO DE MATAR 2
+https://ia601505.us.archive.org/34/items/arma-mortal-3/Duro%20de%20matar%202.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/die_hard_with_a_vengeance-191789571-mmed.jpg", DURO DE MATAR 3
+https://ia601505.us.archive.org/34/items/arma-mortal-3/Duro%20de%20matar%203.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/live_free_or_die_hard-993018827-mmed.jpg", DURO DE MATAR 4
+https://ia601505.us.archive.org/34/items/arma-mortal-3/Duro%20de%20Matar%204.mp4
+
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/Lq9k6-IoL7Q/movieposter.jpg", KARATE KID
+https://ia601502.us.archive.org/9/items/karate-kid-4/karate%20kid.mp4
 
 #EXTINF:0 tvg-logo="https://www.filmaboutit.com/data/shp/images/8mZZYZWlqxxp90U7sBmOnI4UZt5.jpg", KARATE KID 2
-https://archive.org/download/rambo-3_202009/Karate%20Kid%20II.mp4
+https://ia801404.us.archive.org/23/items/rambo-3_202009/Karate%20Kid%20II.mp4?cnt=0
 
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/518Z7437YxL._AC_SY445_.jpg", KARATE KID 3
-https://archive.org/serve/karate-kid-4/karate%20kid%203.mp4
+https://ia801502.us.archive.org/9/items/karate-kid-4/karate%20kid%203.mp4?cnt=0
 
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91NHM%2B2a12L._AC_SL1500_.jpg", KARATE KID 4
-https://archive.org/download/karate-kid-4/karate%20kid%204.mp4
+https://ia801502.us.archive.org/9/items/karate-kid-4/karate%20kid%204.mp4 
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/64/32/32/64323216f74daa0cee8afc696b1a925d.jpg", CHUCKY 1
-https://archive.org/serve/karate-kid-5/chucky.mp4
+#EXTINF:0 tvg-logo="https://www.ecured.cu/images/8/8d/Peliculas_4.JPG", RAMBO
+https://ia601404.us.archive.org/23/items/rambo-3_202009/Karate%20Kid%20II.mp4
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/0a/14/e6/0a14e63ddaf9678fca665a42fd025249.jpg", LA GRAN FIESTA
-https://ia601409.us.archive.org/14/items/21-la-gran-fiesta/21%20la%20gran%20fiesta.mp4
+#EXTINF:0 tvg-logo="https://cloud10.todocoleccion.online/cine-fotos-postales/tc/2019/01/15/21/147091525_1547585694E83627D0.jpg", RAMBO 2
+https://ia801404.us.archive.org/23/items/rambo-3_202009/RAMBO%202.mp4
 
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/wolf_creek-422222570-mmed.jpg", WOLF CREEK
-https://archive.org/download/wolf-creek/Wolf%20creek.mp4
+#EXTINF:0 tvg-logo="https://cloud10.todocoleccion.online/cine-peliculas-16-mm/tc/2017/09/16/01/97968803.jpg", RAMBO 3
+https://ia801404.us.archive.org/23/items/rambo-3_202009/RAMBO%203.mp4 
 
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fZGWJjStklNAbYfqrinkj9cv0G.jpg", GLASS HOUSE
-https://ia601409.us.archive.org/10/items/wolf-creek/glass%20house.mp4
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/01/ee/20/01ee200df2787acc5bb00af3620af96f.jpg", RAMBO 4
+https://ia801404.us.archive.org/23/items/rambo-3_202009/RAMBO%204.mp4
+
+#EXTINF:0 tvg-logo="https://www.ginza.se/Archive/Images/item_img_1200/403994.jpg", RAMBO 5
+https://ia801404.us.archive.org/23/items/rambo-3_202009/RAMBO%205.mp4 
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/64/32/32/64323216f74daa0cee8afc696b1a925d.jpg", CHUCKY
+https://ia801508.us.archive.org/33/items/karate-kid-5/chucky.mp4?cnt=0
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/wolf_creek-422222570-mmed.jpg", ASESINO DE LA CARRETERA
+https://ia601409.us.archive.org/10/items/wolf-creek/Wolf%20creek.mp4?cnt=0
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fZGWJjStklNAbYfqrinkj9cv0G.jpg", CASA DE CRISTAL
+https://ia801409.us.archive.org/10/items/wolf-creek/glass%20house.mp4
 
 #EXTINF:0 tvg-logo="https://mascine.org/images/fichas/full/t/Temblores_4_Comienza_la_Leyenda1_fba11742_2004.jpg", TERROR BAJO LA TIERRA 4
-https://archive.org/download/wolf-creek/terror%20bajo%20la%20tierra%204.mp4
+https://ia801409.us.archive.org/10/items/wolf-creek/terror%20bajo%20la%20tierra%204.mp4
 
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Terror_bajo_la_tierra_5-886775499-large.jpg", TERROR BAJO LA TIERRA 5
-https://ia601409.us.archive.org/10/items/wolf-creek/terror%20bajo%20la%20tierra%205.mp4
+https://ia801409.us.archive.org/10/items/wolf-creek/terror%20bajo%20la%20tierra%205.mp4
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/0a/14/e6/0a14e63ddaf9678fca665a42fd025249.jpg", LA GRAN FIESTA
+https://ia801409.us.archive.org/14/items/21-la-gran-fiesta/21%20la%20gran%20fiesta.mp4?cnt=0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
