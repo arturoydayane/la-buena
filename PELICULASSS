@@ -92,6 +92,9 @@ https://ia601502.us.archive.org/0/items/efecto-mariposa-3/la%20maldici%C3%B3n%20
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/cult_of_chucky-141340185-mmed.jpg", CULT OF CHUCKY
 https://ia601502.us.archive.org/0/items/efecto-mariposa-3/cultura%20of%20chucky.mp4
 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/child_s_play-138450247-mmed.jpg", EL MUÑECO DIABOLICO
+https://ia601408.us.archive.org/34/items/interestelar_202009/EL%20MU%C3%91ECO%20DIABOLICO.mp4?cnt=0
+
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/the_butterfly_effect-524611973-mmed.jpg", EFECTO MARIPOSA
 https://ia601502.us.archive.org/0/items/efecto-mariposa-3/efecto%20mariposa.mp4
 
@@ -202,6 +205,12 @@ https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/SE%20LO%20QUE%20HI
 
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/i_still_know_what_you_did_last_summer-729076148-mmed.jpg" , TODAVIA SE LO QUE HICIERON EL VERANO PASADO
 https://ia601508.us.archive.org/5/items/crepusculo-luna-nueva/SE%20LO%20QUE%20HICIERON%20EL%20VERANO%20PASADO%202.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/interstellar-366875261-mmed.jpg", INTERESTELAR
+https://ia601408.us.archive.org/34/items/interestelar_202009/INTERESTELAR.mp4
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/ready_player_one-508487059-mmed.jpg", READY PLAYER ONE
+https://ia601408.us.archive.org/34/items/interestelar_202009/READY%20PLAYER%20ONE.mp4
 
 #EXTINF:0 tvg-logo="https://pics.filmaffinity.com/wolf_creek-422222570-mmed.jpg" , ASESINO DE LA CARRETERA
 https://ia601409.us.archive.org/10/items/wolf-creek/Wolf%20creek.mp4?cnt=0
